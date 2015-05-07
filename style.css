@@ -11,8 +11,12 @@ header{
 	background-color: #ffffff;
 }
 nav {
-	background-color:000000;
+	background-color:#000000;
 	height: 40px;
+}
+div#corps{
+	background-color:#deff00;
+	height: 500px;
 }
 
 
