@@ -13,7 +13,7 @@ header{
 }
 nav {
 	background-color:727272;
-	height: 50px;
+	height: auto;
 }
 
 
@@ -40,7 +40,6 @@ ul li a {
  }
 ul li a:hover {
  background-color:#D3D3D3;
- border-color:#696969 #DCDCDC #DCDCDC #696969;
  } 
 
 /* Les balises de texte */
