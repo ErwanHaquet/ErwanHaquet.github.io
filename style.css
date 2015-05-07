@@ -10,6 +10,12 @@ header{
 	Height: 150px;
 	background-color: #ff8d8d;
 }
+nav {
+	background-color:727272;
+	height: 50px;
+}
+
+
 h1 {
 	color: blue;
-}}
+}
