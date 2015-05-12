@@ -25,12 +25,12 @@ div#corps{
 /* Le header */
 header h1 {
 	font-size: 18px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	margin-left: 40px;
 }
 header h2 {
 	font-size: 16px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	text-decoration: underline;
 }
 header h2 small{
@@ -38,7 +38,7 @@ header h2 small{
 }
 header h3 {
 	font-size: 14px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 /* Le menu */
 ul {
