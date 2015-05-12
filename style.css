@@ -98,10 +98,13 @@ div#accueil p{
 }
 
 /* Galerie */
-
+div#galerie {
+display:inline-block;
+}
 .img_galerie {
 	width: 300px;
 	margin: 20px;
+	display:inline-block;
 }
 img{
 display:inline-block;
