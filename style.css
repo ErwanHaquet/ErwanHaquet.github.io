@@ -96,3 +96,9 @@ div#accueil p{
 	font-size: 14px;
 }
 
+/* Galerie */
+
+.img_galerie {
+	width: 400px;
+}
+
