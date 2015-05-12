@@ -84,6 +84,9 @@ ul li a:hover {
 
 /* Accueil */
 
+div#accueil p {
+	margin-left: 20px;
+}
 
 
 /* Utilitaire */
@@ -92,6 +95,6 @@ ul li a:hover {
 	float: left;
 }
 
-.flot_right {
+.float_right {
 	float: right;
 }
