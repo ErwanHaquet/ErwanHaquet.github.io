@@ -88,13 +88,6 @@ div#accueil p {
 position:relative;
 }
 
-
-/* Utilitaire */
-
-.float_left {
-	position:absolute;
-}
-
-.float_right {
-	float: right;
+div#accueil img {
+position:absolute;
 }
