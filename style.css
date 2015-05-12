@@ -84,6 +84,14 @@ ul li a:hover {
 
 /* Accueil */
 
-img {
-	float:left;
+
+
+/* Utilitaire */
+
+.float_left {
+	float: left;
+}
+
+.flot_right {
+	float: right;
 }
