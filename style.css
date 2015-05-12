@@ -28,10 +28,10 @@ header h1 {
 header h2 {
 	font-size: 18px;
 	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration: underline;
 }
 header h3 {
 	font-size: 16px;
-	text-decoration: underline;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 /* Le menu */
