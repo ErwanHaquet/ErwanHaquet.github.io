@@ -84,6 +84,12 @@ ul li a:hover {
 
 /* Accueil */
 
+div#accueil h1 {
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	font-size: 18px;
+	text-decoration: underline;
+}
+
 div#accueil p{
 	text-align: justify;
 	font-family:'Helvetica Neue',Arial,sans-serif;
