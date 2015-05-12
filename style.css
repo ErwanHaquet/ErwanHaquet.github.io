@@ -101,6 +101,6 @@ div#accueil p{
 
 .img_galerie {
 	width: 360px;
-	display: inline;
+	display: inline-block;
 	margin: 20px;
 }
