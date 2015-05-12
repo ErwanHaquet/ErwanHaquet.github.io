@@ -98,18 +98,8 @@ div#accueil p{
 }
 
 /* Galerie */
-div#galerie {
-	width:800px;
-	display:inline-block;
-}
-div {
-	display:inline-block;
-}
 .img_galerie {
 	width: 300px;
 	margin: 20px;
-	display:inline-block;
-}
-img{
-display:inline-block;
+	float:left;
 }
