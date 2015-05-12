@@ -13,7 +13,7 @@ header{
 	text-align: right;
 }
 nav {
-	background-color:#4e4e4e;
+	background-color:#1b1b1b;
 	height: 35px;
 	border-radius: 12px 12px 0px 0px;
 }
@@ -54,13 +54,13 @@ ul li a {
 	float:left;   
 	width:100px;
 	color:#ffffff;
-	font: arial, 14px;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 	text-decoration:none;
 	text-align:center;
 	padding:5px;
 }
 ul li a:hover {
-	text-decoration:underline;
+	background-color:4f4f4f;
 } 
 
 /* Les balises de texte */
