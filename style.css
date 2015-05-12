@@ -15,7 +15,7 @@ header{
 nav {
 	background-color:#4e4e4e;
 	height: 35px;
-	border-radius: 12px;
+	border-radius: 12px 12px 0px 0px;
 }
 div#corps{
 	background-color:#deff00;
@@ -49,7 +49,6 @@ ul li a {
 	margin-top: 3px;
 	float:left;   
 	width:100px;
-	background-color:#000000;
 	color:#ffffff;
 	font: arial, 14px;
 	text-decoration:none;
