@@ -92,7 +92,7 @@ div#accueil p {
 /* Utilitaire */
 
 .float_left {
-	float: left;
+	position:absolute;
 }
 
 .float_right {
