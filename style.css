@@ -102,5 +102,5 @@ div#accueil p{
 .img_galerie {
 	width: 360px;
 	margin: 20px;
-	float:left;
+	display:inline-block;
 }
