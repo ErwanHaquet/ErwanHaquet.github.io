@@ -54,8 +54,9 @@ ul li a {
 	margin-top: 3px;
 	float:left;   
 	width:120px;
-	color:#f7b100;
-	font-family:Verdana,Arial,sans-serif;
+	color:#ffffff;
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	text-transform:uppercase;
 	font-size: 14px;
 	text-decoration:none;
 	text-align:center;
