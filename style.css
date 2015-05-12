@@ -7,8 +7,8 @@ div#main{
 	width: 800px;
 }
 header{
-	height: 100px;
-	background-image:url("../img/broderie_rcc.jpg");
+	height: 150px;
+	background-image:url("../img/header_background.jpg");
 	background-size: cover;
 }
 nav {
