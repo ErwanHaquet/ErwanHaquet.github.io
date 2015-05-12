@@ -51,7 +51,7 @@ li {
  }
 ul li a {
 	display:block;
-	margin-top: 3px;
+	margin-top: 5px;
 	float:left;   
 	width:120px;
 	color:#ffffff;
@@ -63,7 +63,7 @@ ul li a {
 	padding: 5px;
 }
 ul li a:hover {
-	text-decoration:underline;
+	color:#ffc01f;
 } 
 
 /* Les balises de texte */
