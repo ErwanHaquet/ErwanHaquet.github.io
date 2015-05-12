@@ -19,7 +19,7 @@ nav {
 	margin-top: 20px;
 }
 div#corps{
-	height: 500px;
+	min-height: 500px;
 	margin-top: 30px;
 	background-color: #cecece;
 }
@@ -99,6 +99,7 @@ div#accueil p{
 /* Galerie */
 
 .img_galerie {
-	width: 400px;
+	width: 300px;
+	float: left;
 }
 
