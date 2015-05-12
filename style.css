@@ -20,6 +20,8 @@ nav {
 }
 div#corps{
 	height: 500px;
+	margin-top: 30px;
+	background-color: #bababa;
 }
 
 
