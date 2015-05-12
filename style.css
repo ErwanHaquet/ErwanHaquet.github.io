@@ -101,9 +101,6 @@ div#accueil p{
 
 .img_galerie {
 	width: 360px;
-	float: left;
+	display: inline;
 	margin: 20px;
-}
-figcaption {
-	position: absolute;
 }
