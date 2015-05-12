@@ -104,6 +104,6 @@ div#accueil p{
 	float: left;
 	margin: 20px;
 }
-div#galerie figcaption {
-	position: relative;
+figcaption {
+	position: absolute;
 }
