@@ -28,6 +28,9 @@ footer {
 	margin-top: 40px;
 	background-color: #ffffff;
 }
+div#accueil {
+
+}
 
 
 /* Le header */
@@ -79,8 +82,8 @@ ul li a:hover {
 } 
 
 
-/* Les balises de texte */
+/* Accueil */
 
-h1 {
-	color: black;
+img div#accueil {
+	float:left;
 }
