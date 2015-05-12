@@ -99,7 +99,7 @@ div#accueil p{
 
 /* Galerie */
 div#galerie {
-display:inline-block;
+width:800px;
 }
 .img_galerie {
 	width: 300px;
