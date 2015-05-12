@@ -85,7 +85,7 @@ ul li a:hover {
 /* Accueil */
 
 div#accueil p {
-position:relative;
+position:absolute;
 }
 
 div#accueil img {
