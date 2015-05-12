@@ -16,7 +16,7 @@ nav {
 	background-color:#1b1b1b;
 	height: 35px;
 	border-radius: 12px 12px 0px 0px;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 div#corps{
 	background-color:#ffffff;
@@ -29,16 +29,13 @@ header h1 {
 	margin-left: 40px;
 }
 header h2 {
-	font-size: 16px;
-	font-family: 'Roboto', sans-serif;
-	text-decoration: underline;
-}
-header h2 small{
-	text-decoration: none;
-}
-header h3 {
 	font-size: 14px;
 	font-family: 'Roboto', sans-serif;
+}
+header h3 {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: underline;
 }
 /* Le menu */
 ul {
