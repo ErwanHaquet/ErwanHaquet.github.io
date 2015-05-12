@@ -20,8 +20,12 @@ nav {
 }
 div#corps{
 	height: 500px;
-	margin-top: 30px;
+	margin-top: 20px;
 	background-color: #bababa;
+}
+footer {
+	height: 200px;
+	background-color: #ffffff;
 }
 
 
