@@ -99,8 +99,12 @@ div#accueil p{
 
 /* Galerie */
 
+div#galerie {
+	display:inline-block;
+}
+
 .img_galerie {
-	width: 360px;
+	width: 300px;
 	margin: 20px;
 	display:inline-block;
 }
