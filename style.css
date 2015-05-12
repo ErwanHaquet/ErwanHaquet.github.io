@@ -100,7 +100,7 @@ div#accueil p{
 /* Galerie */
 
 .img_galerie {
-	width: 360px;
+	width: 300px;
 	display: inline-block;
 	margin: 20px;
 }
