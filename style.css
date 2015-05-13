@@ -104,7 +104,8 @@ div#accueil p{
 	font-family:'Helvetica Neue',Arial,sans-serif;
 	font-size: 14px;
 }
-.easy_nav {
+.easy_nav a{
+	display:block;
 	width: 700px;
 	height: 50px;
 	margin: 10px auto;
