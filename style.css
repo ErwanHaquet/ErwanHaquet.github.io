@@ -131,8 +131,15 @@ div#galerie {
 
 /* Presse */
 
+div#galerie h1 {
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	font-size: 18px;
+	text-decoration: underline;
+	text-align:center;
+}
+
 .cover_presse {
-	width: 350px;
+	width: 100px;
 	margin: 20px;
 	display:inline-block;
 }
