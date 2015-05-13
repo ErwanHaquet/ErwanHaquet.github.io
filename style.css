@@ -128,3 +128,11 @@ div#galerie {
 	margin: 20px;
 	display:inline-block;
 }
+
+/* Presse */
+
+.cover_presse {
+	width: 350px;
+	margin: 20px;
+	display:inline-block;
+}
