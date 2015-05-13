@@ -95,7 +95,8 @@ div#accueil h2 {
 	font-family:'Helvetica Neue',Arial,sans-serif;
 	font-size: 18px;
 	text-decoration: underline;
-	margin-top: 50px;
+	margin: 70px auto;
+	text-align: center;
 }
 
 div#accueil p{
