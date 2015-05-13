@@ -144,3 +144,8 @@ div#presse h1 {
 	display:inline-block;
 }
 
+.magazine {
+	height: 700px;
+	display:inline-block;
+	margin-right: 30px;
+}
