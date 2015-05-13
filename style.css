@@ -104,6 +104,11 @@ div#accueil p{
 	font-family:'Helvetica Neue',Arial,sans-serif;
 	font-size: 14px;
 }
+.work_in_progress {
+	margin-top: 40px;
+	text-align: center;
+	text-decoration: underline;
+}
 
 /* Galerie */
 
