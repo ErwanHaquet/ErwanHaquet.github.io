@@ -132,10 +132,11 @@ div#galerie {
 /* Presse */
 
 div#presse h1 {
-	font-family:'Helvetica Neue',Arial,sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 18px;
 	text-decoration: underline;
 	text-align:center;
+	margin-top:50px;
 }
 
 .cover_presse {
