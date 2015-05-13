@@ -135,8 +135,7 @@ div#presse h1 {
 	width: 175px;
 	margin: 20px;
 	display:inline-block;
-	border-radius: 5px;
-    border: 1px solid #000000;
+    border: 2px solid #1b1b1b;
 }
 
 .magazine {
