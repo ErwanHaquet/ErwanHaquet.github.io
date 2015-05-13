@@ -91,6 +91,13 @@ div#accueil h1 {
 	text-decoration: underline;
 }
 
+div#accueil h2 {
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	font-size: 18px;
+	text-decoration: underline;
+	margin-top: 50px;
+}
+
 div#accueil p{
 	text-align: justify;
 	font-family:'Helvetica Neue',Arial,sans-serif;
