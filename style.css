@@ -20,13 +20,13 @@ nav {
 }
 div#corps{
 	min-height: 500px;
-	margin-top: 30px;
+	margin-top: 20px;
 	background-color: #cecece;
 	overflow: hidden;
 }
 footer {
 	height: 100px;
-	margin-top: 40px;
+	margin-top: 20px;
 	background-color: #1b1b1b;
 }
 div#accueil {
