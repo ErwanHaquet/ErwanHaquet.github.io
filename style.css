@@ -96,6 +96,12 @@ div#accueil p{
 	font-family:'Helvetica Neue',Arial,sans-serif;
 	font-size: 14px;
 }
+div#easy_nav {
+	width: 700px;
+	height: 50px;
+	margin: 0 auto;
+	background-color: black;
+}
 
 /* Galerie */
 
