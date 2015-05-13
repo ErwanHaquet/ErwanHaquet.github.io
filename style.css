@@ -111,6 +111,11 @@ div#accueil p{
 	margin: 10px auto;
 	background-color:#a0a0a0;
 }
+.easy_nav h3{
+	display: inline-block;
+	width: 200px;
+	color:#ffc01f;
+}
 
 /* Galerie */
 
